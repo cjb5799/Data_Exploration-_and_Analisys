@@ -1,7 +1,4 @@
 # Data_Exploration-_and_Analysis
 
 
-In this project, I applied my newly learned knowledge in statistical correlation and Python programming skills. I analyzed a recent survey of college students.
-I analyzed if there is a significant relationship between the amount of time spent reading and watching television. As simple as it sounds, there are still 
-many other factors that are taken into consideration. Also, other significant relationships were discovered in this analysis; the survey data is located 
-in this StudentSurvey.csv file.
+My project is focused on identifying the societal factors that the government will need to focus on for bringing society together to produce a sense of relief and happiness. The Happiness Index Project is a valuable resource for determining the societal factors that influenced a country's happiness index. I combined two data frames from the happiness index's surveys from 2019 and 2020. I validated that the variables matched up and removed any incompatible variables, identified the missing values, outliers, and unusual distributions. Source Kaggle - The Happiness Index
