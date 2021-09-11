@@ -1,4 +1,4 @@
-# Week 12 final project file
+
 
 import pandas
 import thinkstats2
